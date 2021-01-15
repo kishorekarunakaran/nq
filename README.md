@@ -4,6 +4,8 @@ nanoQ is a very minimalistic (opinionated/limited) Pub/Sub transport library.
 
 Instant "fire and forget" publish with only best-effort delivery guarantee.
 
+More on this blog - https://medium.com/aigent/meet-nanoq-high-performance-brokerless-pub-sub-for-streaming-real-time-data-with-golang-6630d3067f4e
+
 ## Do I need it?
 
 For telecommunications, media, IoT, gaming, metrics, clicks, etc.: ***it's okay to loose data*** to get the most up to date messages.
